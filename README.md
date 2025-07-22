@@ -1,9 +1,9 @@
 # Eliane Maria – Perfil de Links
 
-![Modo Escuro](./assets/ImagemPerfi(2).png)
+![Modo Escuro](./assets/Imagem1.png)
 *Visualização em modo escuro*
 
-![Modo Claro](./assets/ImagemPerfil(1).png)
+![Modo Claro](./assets/Imagem2.png)
 *Visualização em modo claro*
 
 ## 💡 Sobre o projeto
